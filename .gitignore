@@ -1,0 +1,13 @@
+# Folder Virtual Environment
+venv/
+
+# Folder Cache Python & Jupyter
+__pycache__/
+*/__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# File Model yang mungkin ukurannya >100MB (Optional, cek ukurannya)
+# Jika file .h5 atau .pkl kamu dibawah 100MB, beri tanda pagar (#) didepannya.
+# *.h5
+# *.pkl
